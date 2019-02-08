@@ -1,0 +1,21 @@
+---Client 1---
+Nom : fed
+Prénom : sfsd
+Adresse : fs
+Ville : erfs
+Code postal : ef
+
+---Client 2---
+Nom : fse
+Prénom : dfs
+Adresse : fd
+Ville : s
+Code postal : efes
+
+---Client 3---
+Nom : sdf
+Prénom : sef
+Adresse : se
+Ville : fs
+Code postal : f
+

@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1549297886 source:d:\projets code..blocks\tp_carteidentites\fonctionsci.c
+	<stdio.h>
+	<stdlib.h>
+	"fonctionsCI.h"
+
+1549298066 d:\projets code..blocks\tp_carteidentites\fonctionsci.h
+
+1549358544 source:d:\projets code..blocks\tp_carteidentites\mainci.c
+	<stdio.h>
+	<stdlib.h>
+	"fonctionsCI.h"
+
+1549297886 source:c:\users\sefii\desktop\cours ludus\cours algo-prog\2ème année\tp prog\04.02.2019_carteidentite\fonctionsci.c
+	<stdio.h>
+	<stdlib.h>
+	"fonctionsCI.h"
+
+1549298066 c:\users\sefii\desktop\cours ludus\cours algo-prog\2ème année\tp prog\04.02.2019_carteidentite\fonctionsci.h
+
+1549466205 source:c:\users\sefii\desktop\cours ludus\cours algo-prog\2ème année\tp prog\04.02.2019_carteidentite\mainci.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1549297888 source:c:\users\vixenntal\desktop\04.02.2019_carteidentite\fonctionsci.c
+	<stdio.h>
+	<stdlib.h>
+	"fonctionsCI.h"
+
+1549644111 c:\users\vixenntal\desktop\04.02.2019_carteidentite\fonctionsci.h
+
+1549644094 source:c:\users\vixenntal\desktop\04.02.2019_carteidentite\mainci.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonctionsCI.h"
+
+1549662293 source:c:\users\sefii\desktop\cours ludus\cours algo-prog\2ème année\tp prog\04.02.2019_carteidentite_v2\mainci.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonctionsCI.h"
+
+1549662272 c:\users\sefii\desktop\cours ludus\cours algo-prog\2ème année\tp prog\04.02.2019_carteidentite_v2\fonctionsci.h
+
+1549662373 source:c:\users\sefii\desktop\cours ludus\cours algo-prog\2ème année\tp prog\04.02.2019_carteidentite_v2\fonctionsci.c
+	<stdio.h>
+	<stdlib.h>
+	"fonctionsCI.h"
+
+1549665724 source:c:\users\sefii\desktop\cours ludus\cours algo-prog\2ème année\tp prog\04.02.2019_carteidentite_malloc\fonctionsci.c
+	<stdio.h>
+	<stdlib.h>
+	"fonctionsCI.h"
+
+1549666150 c:\users\sefii\desktop\cours ludus\cours algo-prog\2ème année\tp prog\04.02.2019_carteidentite_malloc\fonctionsci.h
+
+1549666243 source:c:\users\sefii\desktop\cours ludus\cours algo-prog\2ème année\tp prog\04.02.2019_carteidentite_malloc\mainci.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonctionsCI.h"
+
